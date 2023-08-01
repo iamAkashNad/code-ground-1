@@ -1,0 +1,2 @@
+Hello World from  data.txt!
+I am reading this file
